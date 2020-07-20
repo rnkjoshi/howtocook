@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/howtocook/static/css/main.b9d481ea.chunk.css",
+    "main.js": "/howtocook/static/js/main.d54d16e5.chunk.js",
+    "main.js.map": "/howtocook/static/js/main.d54d16e5.chunk.js.map",
+    "runtime-main.js": "/howtocook/static/js/runtime-main.419bb934.js",
+    "runtime-main.js.map": "/howtocook/static/js/runtime-main.419bb934.js.map",
+    "static/js/2.1ef5a43b.chunk.js": "/howtocook/static/js/2.1ef5a43b.chunk.js",
+    "static/js/2.1ef5a43b.chunk.js.map": "/howtocook/static/js/2.1ef5a43b.chunk.js.map",
+    "index.html": "/howtocook/index.html",
+    "precache-manifest.7e3493f96a1c42f8ed3651a813277ed7.js": "/howtocook/precache-manifest.7e3493f96a1c42f8ed3651a813277ed7.js",
+    "service-worker.js": "/howtocook/service-worker.js",
+    "static/css/main.b9d481ea.chunk.css.map": "/howtocook/static/css/main.b9d481ea.chunk.css.map",
+    "static/js/2.1ef5a43b.chunk.js.LICENSE.txt": "/howtocook/static/js/2.1ef5a43b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.419bb934.js",
+    "static/js/2.1ef5a43b.chunk.js",
+    "static/css/main.b9d481ea.chunk.css",
+    "static/js/main.d54d16e5.chunk.js"
+  ]
+}
