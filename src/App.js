@@ -50,7 +50,7 @@ function App() {
       </div>
       <center>
         <p>designed by Ronak Joshi</p>
-        <p>Powered by @Edamum & inspired by <a href="https://rinkumonani.github.io/sear-a-pe/dist/index.html">sear-a-pe</a></p>
+        <p>Powered by @Edamum & inspired by <a href="https://rinkumonani.github.io/sear-a-pe/dist/index.html" target="_blank" style={{textDecoration:"none",color:"black"}}>sear-a-pe</a></p>
       </center>
     </div>
   );
