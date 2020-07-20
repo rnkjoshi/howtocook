@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/howtocook/static/css/main.e666177a.chunk.css",
-    "main.js": "/howtocook/static/js/main.72828c6d.chunk.js",
-    "main.js.map": "/howtocook/static/js/main.72828c6d.chunk.js.map",
+    "main.js": "/howtocook/static/js/main.c926fe27.chunk.js",
+    "main.js.map": "/howtocook/static/js/main.c926fe27.chunk.js.map",
     "runtime-main.js": "/howtocook/static/js/runtime-main.419bb934.js",
     "runtime-main.js.map": "/howtocook/static/js/runtime-main.419bb934.js.map",
-    "static/js/2.ab6441e3.chunk.js": "/howtocook/static/js/2.ab6441e3.chunk.js",
-    "static/js/2.ab6441e3.chunk.js.map": "/howtocook/static/js/2.ab6441e3.chunk.js.map",
+    "static/js/2.2b21ba50.chunk.js": "/howtocook/static/js/2.2b21ba50.chunk.js",
+    "static/js/2.2b21ba50.chunk.js.map": "/howtocook/static/js/2.2b21ba50.chunk.js.map",
     "index.html": "/howtocook/index.html",
-    "precache-manifest.ac6007883e117d0d36743890b961f090.js": "/howtocook/precache-manifest.ac6007883e117d0d36743890b961f090.js",
+    "precache-manifest.808c23878cf78697f1c3125433fa3208.js": "/howtocook/precache-manifest.808c23878cf78697f1c3125433fa3208.js",
     "service-worker.js": "/howtocook/service-worker.js",
     "static/css/main.e666177a.chunk.css.map": "/howtocook/static/css/main.e666177a.chunk.css.map",
-    "static/js/2.ab6441e3.chunk.js.LICENSE.txt": "/howtocook/static/js/2.ab6441e3.chunk.js.LICENSE.txt"
+    "static/js/2.2b21ba50.chunk.js.LICENSE.txt": "/howtocook/static/js/2.2b21ba50.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.419bb934.js",
-    "static/js/2.ab6441e3.chunk.js",
+    "static/js/2.2b21ba50.chunk.js",
     "static/css/main.e666177a.chunk.css",
-    "static/js/main.72828c6d.chunk.js"
+    "static/js/main.c926fe27.chunk.js"
   ]
 }
