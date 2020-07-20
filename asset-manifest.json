@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/howtocook/static/css/main.e666177a.chunk.css",
-    "main.js": "/howtocook/static/js/main.fe6eac97.chunk.js",
-    "main.js.map": "/howtocook/static/js/main.fe6eac97.chunk.js.map",
+    "main.js": "/howtocook/static/js/main.70d9bdce.chunk.js",
+    "main.js.map": "/howtocook/static/js/main.70d9bdce.chunk.js.map",
     "runtime-main.js": "/howtocook/static/js/runtime-main.419bb934.js",
     "runtime-main.js.map": "/howtocook/static/js/runtime-main.419bb934.js.map",
     "static/js/2.2b21ba50.chunk.js": "/howtocook/static/js/2.2b21ba50.chunk.js",
     "static/js/2.2b21ba50.chunk.js.map": "/howtocook/static/js/2.2b21ba50.chunk.js.map",
     "index.html": "/howtocook/index.html",
-    "precache-manifest.89b8eff92f8e8823acb8d1c8959e01a8.js": "/howtocook/precache-manifest.89b8eff92f8e8823acb8d1c8959e01a8.js",
+    "precache-manifest.c1e24ce8cb5c48e4f294b9f1f69f82ed.js": "/howtocook/precache-manifest.c1e24ce8cb5c48e4f294b9f1f69f82ed.js",
     "service-worker.js": "/howtocook/service-worker.js",
     "static/css/main.e666177a.chunk.css.map": "/howtocook/static/css/main.e666177a.chunk.css.map",
     "static/js/2.2b21ba50.chunk.js.LICENSE.txt": "/howtocook/static/js/2.2b21ba50.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.419bb934.js",
     "static/js/2.2b21ba50.chunk.js",
     "static/css/main.e666177a.chunk.css",
-    "static/js/main.fe6eac97.chunk.js"
+    "static/js/main.70d9bdce.chunk.js"
   ]
 }
