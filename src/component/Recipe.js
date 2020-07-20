@@ -40,12 +40,11 @@ const Recipe = (props) => {
                     <div key={id}>
                     <p>{ing.text}</p>
                     {(ing.img!==null)?<img className={style.imagerecipe} src={ing.image} alt={ing.text} />:null}
-                    
                     </div>
                 ))}
                 
                 </center>
-                <h3>Hurrayy!!! Your {props.title}is ready</h3>
+                <h3>Hurrayy!!! Your {props.title} is ready.</h3>
                 <button className="search-button" onClick={()=>setOpen(false)}><i className="fa fa-long-arrow-left" aria-hidden="true"></i></button>
             </Modal>
             <h1>{props.title}</h1> 

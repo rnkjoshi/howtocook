@@ -48,6 +48,10 @@ function App() {
         />
       )):<i className="fa fa-spinner fa-spin fa-3x fa-fw"></i>}
       </div>
+      <center>
+        <p>designed by Ronak Joshi</p>
+        <p>Powered by @Edamum</p>
+      </center>
     </div>
   );
 }
