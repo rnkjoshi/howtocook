@@ -19,3 +19,6 @@
     width: 200px;
     height: 200px;
 }
+.imagerecipe{
+    object-fit: contain;
+}
