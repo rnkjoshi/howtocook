@@ -7,7 +7,15 @@ const Recipe = (props) => {
     const [open,setOpen] = useState(false);
     return (
         <div className={style.recipe}>
-            <Modal isOpen={open} onRequestClose={()=> setOpen(false)}>
+            <Modal isOpen={open} onRequestClose={()=> setOpen(false)} style={
+                {overlay:{
+                    backgroundColor:"rgba(0,0,0,.5)"
+                },
+            content:{
+                backgroundColor:"white",
+                zIndex:"10"
+            }}
+            }>
                 <center><h1>{props.title}</h1>
                 <img src={props.image} alt={props.title} />
                 <h3>Calories - {props.calories}</h3></center>
